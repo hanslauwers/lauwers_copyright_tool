@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+LauwersCopyrightTool::Renderer.copyright 'Hans Lauwers', 'All rights reserved'
+```
 
 ## Development
 
